@@ -7,6 +7,7 @@
 - US large caps
 - Australian large caps
 - Equities
+- US small caps
 
 ## One market story that hooked me
 Klarna, Figma, and SpaceX stock price performance 
